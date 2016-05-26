@@ -283,7 +283,7 @@
                                     </strong>
                                 </li>
                                 <li>Languages:
-                                    <strong>PHP - JQuery
+                                    <strong>PHP - JQuery - SQL
                                     </strong>
                                 </li>
                             </ul>
